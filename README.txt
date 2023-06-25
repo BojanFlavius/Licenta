@@ -1,3 +1,5 @@
+https://github.com/BojanFlavius/Licenta
+
 Pentru a putea crea un server o sa avem nevoie de aplicatia XAMPP din link-ul aceasta 
 https://www.apachefriends.org/
 Odata instalata trebuie sa intram la modulul Apache la actiunea config, sectiunea apache 
