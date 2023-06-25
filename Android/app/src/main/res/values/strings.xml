@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindMe</string>
+    <string name="home">Home</string>
+    <string name="addphoto">Add Photo</string>
+    <string name="history">History</string>
+    <string name="logout">Log Out</string>
+    <string name="fullName">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="navigation_drawer_open">Open naviagtion drawer</string>
+    <string name="navigation_drawer_close">Close naviagtion drawer</string>
+    <string name="DeletePhoto">Delete Photo</string>
+</resources>
